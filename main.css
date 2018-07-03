@@ -1,0 +1,26 @@
+
+.bottom-border {
+  border-bottom: 1px solid #e5e5e5;
+}
+
+nav {
+  overflow-x: auto;
+}
+
+.card img {
+  height: 250px;
+  width: 200px;
+}
+
+.blog-post {
+  margin-bottom: 2rem;
+}
+
+.blog-post-detail {
+
+}
+
+.back-button {
+  padding: 2rem;
+  text-align: center;
+}
