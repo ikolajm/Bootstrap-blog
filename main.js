@@ -4,4 +4,4 @@ $("a[href='#top']").click(function() {
   return false;
 });
 
-// USING SLIM JQUERY... ANIMATE WILL NOT FUNCTION
+// USING SLIM JQUERY... ANIMATE WILL NOT FUNCTION (via stackoverflow)
